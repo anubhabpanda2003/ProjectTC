@@ -1,0 +1,2 @@
+# ProjectTC
+finding timecomplexity
